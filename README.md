@@ -1,1 +1,1 @@
-# legendary-dollop
+# lyrid-training
